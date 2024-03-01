@@ -50,4 +50,4 @@ _Some notable references for this project include -_
 - https://kaggle.com/
 
 
-Note: _The original dataset on Kaggle contains clean data but the version used in this project contained low qaulity data._
+Note: _The original dataset on Kaggle contains clean data but the version used in this project contained low quality data._
